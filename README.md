@@ -2,12 +2,9 @@
 
 ## About
 
-----
 My dotfile organization repository! Contains config files for my current i3/Ubuntu setup. This is currently working in **Ubuntu 20.04**.
 
 ## Apps
-
-----
 
 - WM: [i3-gaps](https://github.com/Airblader/i3)
 - Status bar: [Polybar](https://github.com/polybar/polybar)
@@ -22,8 +19,6 @@ My dotfile organization repository! Contains config files for my current i3/Ubun
 - Cursor: [McMojave-cursors](https://www.pling.com/p/1355701/)
 
 ## Screenshots
-
-----
 
 ![desktop images](screenshots/display.png)
 
